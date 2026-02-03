@@ -250,7 +250,7 @@ override.tf.json
 # !example_override.tf
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
-# example: *tfplan*
+# example: *tfplanown   
 
 # Ignore CLI configuration files
 .terraformrc
@@ -266,3 +266,7 @@ terraform.rc
 
 
 *_.json
+
+kestra-gcp-486312-24026e2fde4f.json
+
+.env_encoded
